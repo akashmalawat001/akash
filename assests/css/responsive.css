@@ -1,0 +1,80 @@
+@media (min-width: 992px) {
+
+
+    .gradient-bg {background: none;}
+    .inner-bx {left: 0;}
+    .circule-bx p {right: 100px;}
+}
+
+@media (min-width: 768px) {
+
+    .profile-info h1 {font-size: 52px;}
+    .gradient-bg {background: none;}
+    .navbar-toggler:hover {background: #fff;}
+    button:focus:not(:focus-visible) {color: #c9bb90;}
+    .nav-link {width: 110px;}
+    .info-boi p {text-align: center;}
+    .inner-bx {top: 0;}
+    .contact-bg-vector {margin-top: 100px;}
+    .logo-name {text-align: center;}
+    .text-ara {text-align: center; margin-bottom: 80px;}
+}
+
+@media (min-width: 576px) {
+
+    .nav-item {width: 150px;}
+    .navbar-toggler{background: #fff;}
+    button:focus:not(:focus-visible) {color: #c9bb90;}
+    .profile-info {text-align: center;}
+    .d-btn {margin-left: auto; margin-right: auto;}
+    .d-btn a {padding: 14px;}
+    .gradient-bg {background: none;}
+    .inner-bx {left: 0;}
+    .info-boi p {text-align: center;}
+    .contact-bg-vector {width: 500px; margin-bottom: 60px; }
+    .btn {margin-left: 150px;}
+    .btn-bk {width: 54px; height: 55px;}
+    .logo-name {text-align: center;}
+    .text-ara {text-align: center; margin-bottom: 60px; }
+    .sub-heading {font-size: 30px;}
+
+
+}
+
+@media (max-width:480px){
+
+    .inner-bx {left: 0px;}
+    .gradient-bg {background-size: contain;}
+    .profile-info {text-align: center;}
+    .d-btn {margin-left: auto; margin-right: auto;}
+    .tech-icon {margin-right: 14px; margin-left: 14px;}
+    .circule-bx p {right: 100px;}
+    .info-boi p {text-align: center;}
+    .contact-bg-vector {margin-bottom: 50px;}
+    .btn {margin-left: 130px;}
+    .logo-name {text-align: center;}
+    .text-ara {text-align: center; margin-bottom: 40px; }
+    .menus-list {margin-left: 72px;}
+    .sub-heading {margin-left: 72px;  }
+    .media {margin-left: 72px;}
+    .inner-bx .img {width: 200px;} 
+    .inner-bx img {width: 200px;}
+    .circule-bx {width: 298px;}
+    .navbar-brand img {width: 220px;}
+    .sticky-header {top: 2px;}
+    .profile-info h1 {font-size: 32px; line-height: 31px; margin: 0;}
+    .profile-info h2 {font-size: 24px; margin: 0;}
+    .profile-info p {font-size: 19px; margin: 0; }
+    .d-btn a {padding: 12px;}
+    .circule-bx p {right: -32px;}
+    .circule-bx {margin-top: -33px;}
+    .info-boi p {margin: 0; line-height: 32px; }
+    .btn {margin-left: 60px;}
+    .menus-list {margin: 0;}
+    .sub-heading {margin-left: 0;}
+    .navbar-toggler {background: #fff;}
+    button:focus:not(:focus-visible) {color: #c9bb90;}
+    .profile-info {margin-top: 60px;}
+    .tech-icon {width: 260px;}
+    .nav-link {width: 118px;}
+} 
